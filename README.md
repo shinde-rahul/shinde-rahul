@@ -17,10 +17,11 @@
   <a href="https://linkedin.com/in/shinderahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shinderahul" height="30" width="40" /></a>
   <a href="https://dev.to/shinderahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shinderahul" height="30" width="40" /></a>
 
+<!-- the vercel.app is down.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinde-rahul&hide=less,css&layout=compact&hide_progress=true)
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinde-rahul&theme=flag-india&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=percentile&show=reviews)
-
+-->
 
 [![@rahul_shinde's Holopin board](https://holopin.me/rahul_shinde)](https://holopin.io/@rahul_shinde)
 
