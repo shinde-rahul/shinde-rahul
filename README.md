@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Shinde</h1>
-<h3 align="center">Architecting Intelligent & Sustainable Open-Source Platforms</h3>
+<h3 align="center">Technology Strategist for Intelligent & Sustainable Platforms</h3>
 
 <p align="center">
 Mautic Core Contributor • Systems Architect • NLP Practitioner • Community Builder<br/>
-Active in web architecture since 2007 (Drupal 4.x era)
+Shaping web platforms since 2007 (Drupal 4.x era)
 </p>
 
 <p align="center"><em>
@@ -14,12 +14,12 @@ I work at the intersection of technology, people, and long-lived platforms.
 
 ### What I Work On
 
-I design platforms that must survive version churn, contributor turnover, and community scale.
+I design technology platforms that must survive version churn, contributor turnover, and community growth.
 
 My work spans:
 
 - 🧠 Scalable architecture (Mautic, Drupal evolution, Symfony foundations)
-- 🤖 Intelligent automation & NLP-based prediction systems
+- 🤖 Intelligent automation and applied NLP systems
 - 🔁 Contributor workflow and release reliability
 - 🌍 Open-source governance & ecosystem sustainability
 - 🧩 Pluggable, extensible platform design and architecture
@@ -33,7 +33,8 @@ I focus on building foundations that remain stable while everything around them 
 - Increasing contribution throughput and release stability in Mautic
 - Designing governance-aware marketplace platforms
 - Building NLP pipelines for clinical decision support (Ayurveda)
-- Exploring distributed systems and Rust
+- Embedding sustainability into platform design
+- Exploring distributed systems as leverage for organizational scale
 
 ---
 
@@ -57,22 +58,24 @@ Software scales when its surrounding structure scales.
 
 ### Working Across Levels
 
-I engage with people at very different stages — from students choosing their first stream to leaders designing long-term technology strategy.
+Technology decisions ripple far beyond code.
 
-- Students & parents: identifying direction beyond trends
-- Engineers: growing from implementation to architectural thinking
+I engage across layers of experience and responsibility:
+
+- Students & parents: identifying direction beyond short-term trends
+- Engineers & contributors: growing from implementation to architectural thinking
 - Product & business leaders: aligning incentives, architecture, and outcomes
-- Educators & researchers: translating theory into deployable systems
+- Educators & researchers: translating theory into deployable, scalable platforms
 
-Often, my role is not to give answers — but to help reveal the structure of the system in play.
+Often, my role is not to provide answers — but to surface the structure, trade-offs, and long-term implications within a system.
 
 ---
 
 ### Ask Me About
 
-`Open-source sustainability` • `Mautic & Drupal evolution`  
-`Architectural thinking` • `NLP in real-world systems`  
-`Designing technology that lasts`
+Direction & foundations (students, parents): `Choosing the right tech path` • `Designing technology that lasts`  
+Growth & practice (engineers, contributors): `Architectural thinking` • `Mautic & Drupal evolution` • `Platform evolution`  
+Strategy & stewardship (leaders, educators): `Technology strategy` • `Open-source sustainability` • `Applied NLP systems`
 
 ---
 
