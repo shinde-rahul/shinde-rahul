@@ -3,14 +3,17 @@
 
 <p align="center">
 Mautic Core Contributor • Systems Architect • NLP Practitioner • Community Systems Builder<br/>
-Building on the web since Drupal 4.x (2007)
+Building on the web since 2007 (Drupal 4.x)
 </p>
+<p align="center"><em>
+I work at the intersection of technology, people, and long-lived systems.
+</em></p>
 
 ---
 
 ### What I Work On
 
-I design and improve systems that need to evolve across versions, contributors, and communities.
+I design systems that must survive version churn, contributor turnover, and community scale.
 
 My work spans:
 
@@ -26,7 +29,7 @@ I focus on systems that outlive frameworks and version cycles.
 
 ### Selected Focus Areas
 
-- Strengthening core contribution processes in Mautic
+- Improving core contribution throughput and release reliability in Mautic
 - Designing governance-aware marketplace platforms
 - Building NLP pipelines for clinical decision support (Ayurveda)
 - Exploring distributed systems and Rust
@@ -51,9 +54,24 @@ Software scales when the system around it scales.
 
 ---
 
+### How I Help Across Levels
+
+I work with people at very different stages — from students choosing their first stream to leaders designing long-term technology strategy.
+
+- For students & parents: understanding *why* a path fits, not just what is trending
+- For engineers: growing from implementation to system-level thinking
+- For product & business leaders: aligning architecture, incentives, and outcomes
+- For educators & researchers: translating theory into real-world systems
+
+My role is often less about answers — and more about helping people see the system they’re operating in.
+
+---
+
 ### Ask Me About
 
-`Mautic` • • `Drupal Evolution` • `NLP Systems` • `Automation Infrastructure` • `Open-source sustainability`
+`Open-source sustainability` • `Mautic & Drupal evolution` • `System design across career stages`
+• `NLP systems in practice` • `Choosing the right tech path`
+
 
 --- 
 
