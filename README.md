@@ -1,35 +1,36 @@
 <h1 align="center">Hi 👋, I'm Rahul Shinde</h1>
-<h3 align="center">Architecting Intelligent & Sustainable Open-Source Systems</h3>
+<h3 align="center">Architecting Intelligent & Sustainable Open-Source Platforms</h3>
 
 <p align="center">
-Mautic Core Contributor • Systems Architect • NLP Practitioner • Community Systems Builder<br/>
-Building on the web since 2007 (Drupal 4.x)
+Mautic Core Contributor • Systems Architect • NLP Practitioner • Community Builder<br/>
+Active in web architecture since 2007 (Drupal 4.x era)
 </p>
+
 <p align="center"><em>
-I work at the intersection of technology, people, and long-lived systems.
+I work at the intersection of technology, people, and long-lived platforms.
 </em></p>
 
 ---
 
 ### What I Work On
 
-I design systems that must survive version churn, contributor turnover, and community scale.
+I design platforms that must survive version churn, contributor turnover, and community scale.
 
 My work spans:
 
-- 🧠 Scalable architecture (Mautic, Drupal 4.x → 8+ evolution)
+- 🧠 Scalable architecture (Mautic, Drupal evolution, Symfony foundations)
 - 🤖 Intelligent automation & NLP-based prediction systems
-- 🔁 Contributor workflow & release velocity improvements
+- 🔁 Contributor workflow and release reliability
 - 🌍 Open-source governance & ecosystem sustainability
-- 🧩 Pluggable, extensible platform design
+- 🧩 Pluggable, extensible platform design and architecture
 
-I focus on systems that outlive frameworks and version cycles.
+I focus on building foundations that remain stable while everything around them changes.
 
 ---
 
 ### Selected Focus Areas
 
-- Improving core contribution throughput and release reliability in Mautic
+- Increasing contribution throughput and release stability in Mautic
 - Designing governance-aware marketplace platforms
 - Building NLP pipelines for clinical decision support (Ayurveda)
 - Exploring distributed systems and Rust
@@ -38,9 +39,9 @@ I focus on systems that outlive frameworks and version cycles.
 
 ### Foundation
 
-- 18+ years in distributed engineering
-- Experience across major Drupal architectural shifts
-- Long-term contributor in open-source communities
+- 18+ years in distributed engineering environments
+- Experience across major Drupal architectural transitions
+- Long-term open-source contributor and community organizer
 
 ---
 
@@ -48,39 +49,41 @@ I focus on systems that outlive frameworks and version cycles.
 
 Clear architecture.  
 Aligned incentives.  
-Sustainable governance.  
+Sustainable governance.
 
-Software scales when the system around it scales.
+Software scales when its surrounding structure scales.
 
 ---
 
-### How I Help Across Levels
+### Working Across Levels
 
-I work with people at very different stages — from students choosing their first stream to leaders designing long-term technology strategy.
+I engage with people at very different stages — from students choosing their first stream to leaders designing long-term technology strategy.
 
-- For students & parents: understanding *why* a path fits, not just what is trending
-- For engineers: growing from implementation to system-level thinking
-- For product & business leaders: aligning architecture, incentives, and outcomes
-- For educators & researchers: translating theory into real-world systems
+- Students & parents: identifying direction beyond trends
+- Engineers: growing from implementation to architectural thinking
+- Product & business leaders: aligning incentives, architecture, and outcomes
+- Educators & researchers: translating theory into deployable systems
 
-My role is often less about answers — and more about helping people see the system they’re operating in.
+Often, my role is not to give answers — but to help reveal the structure of the system in play.
 
 ---
 
 ### Ask Me About
 
-`Open-source sustainability` • `Mautic & Drupal evolution` • `System design across career stages`
-• `NLP systems in practice` • `Choosing the right tech path`
-
---- 
-
-### Connect
-
- <a href="https://twitter.com/_rahulshinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rahulshinde" height="15" width="25" /></a> • <a href="https://linkedin.com/in/shinderahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shinderahul" height="15" width="25" /></a> • <a href="https://dev.to/shinderahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shinderahul" height="15" width="25" /></a>
+`Open-source sustainability` • `Mautic & Drupal evolution`  
+`Architectural thinking` • `NLP in real-world systems`  
+`Designing technology that lasts`
 
 ---
 
-### Stickers 
+### Connect
+
+<a href="https://twitter.com/_rahulshinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rahulshinde" height="15" width="25" /></a> • 
+<a href="https://linkedin.com/in/shinderahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shinderahul" height="15" width="25" /></a> • 
+<a href="https://dev.to/shinderahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shinderahul" height="15" width="25" /></a>
+
+---
+
+### Stickers
 
 [![@rahul_shinde's Holopin board](https://holopin.me/rahul_shinde)](https://holopin.io/@rahul_shinde)
-
